@@ -67,4 +67,4 @@ The project showcases:
 
 
 ### 📷 **Output Screenshot**
-
+![Image](https://github.com/user-attachments/assets/cb02f550-8515-4528-bc7e-13a7db63d77d)
